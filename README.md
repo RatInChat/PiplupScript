@@ -4,6 +4,7 @@ Javascript but piplup
 # How to:
 
 end all files with .piplup
+add whitespace if you want
 
 Included:
 
@@ -24,7 +25,7 @@ pip
 # how to functions
 
 def hi(hi) { <br>
-  (whitespace) scream(hi) <br>
+   scream(hi) <br>
 }
 
 hi("hi")
@@ -35,7 +36,7 @@ scream("hi")
 # how to lamda
 
 piplup retron = () => { <br>
-  (whitespace) scream("retron is here") <br>
+   scream("retron is here") <br>
 }
 
 
