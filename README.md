@@ -12,13 +12,13 @@ functions
 variables
 blah blah blah.
 
-Start variables:
+# variables:
 
 var or let have been replaced with:
 
 piplup
 
-const:
+const has been replaced with:
 pip
 
 # how to functions
