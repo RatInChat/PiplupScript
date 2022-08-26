@@ -1,8 +1,8 @@
 {
-  "name": "PiplupScript",
+  "name": "piplupscript",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "run.js",
   "scripts": {
     "gparse": "nearleyc piplup.ne -o piplup.js"
   },
@@ -13,6 +13,8 @@
     "moo": "^0.5.1",
     "mz": "^2.7.0",
     "nearley": "^2.20.1",
-    "prompt-sync": "^4.2.0"
+    "PiplupScript": "github:ratinchat/piplupscript",
+    "prompt-sync": "^4.2.0",
+    "retronbv": "github:ratinchat/retronscript"
   }
 }
