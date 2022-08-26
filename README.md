@@ -5,7 +5,8 @@ Javascript but piplup
 
 end all files with .piplup
 add whitespace if you want
-
+# install
+just download the code into a folder 
 Included:
 
 Lambda functions
