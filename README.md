@@ -24,7 +24,7 @@ pip
 # how to functions
 
 def hi(hi) { <br>
-  scream(hi) <br>
+  (whitespace) scream(hi) <br>
 }
 
 hi("hi")
@@ -35,13 +35,10 @@ scream("hi")
 # how to lamda
 
 piplup retron = () => { <br>
-  scream("retron is here") <br>
+  (whitespace) scream("retron is here") <br>
 }
 
-piplup retron = () => <br>
-  scream('retonr is here") <br>
- 
-is also acceptable i think
+
 # basicly it unless i forgor
 tell me if I miss anything
 
