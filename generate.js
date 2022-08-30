@@ -1,4 +1,4 @@
-
+#!/usr/bin/env node
 
 const fs = require("mz/fs");
 
