@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const moo = require('moo');
 
 let lexer = moo.compile({
