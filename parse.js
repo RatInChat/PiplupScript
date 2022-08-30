@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const nearley = require("nearley");
 const grammar = require("./piplup.js");
 const fs = require("mz/fs");
