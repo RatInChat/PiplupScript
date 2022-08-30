@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const fs = require('mz/fs');
 const util = require('util');
 const exec = util.promisify(require('child_process').exec);
