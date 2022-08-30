@@ -1,8 +1,8 @@
 {
-  "name": "piplupscript",
+  "name": "piplup",
   "version": "1.0.0",
   "description": "",
-  "main": "run.js",
+  "main": "build.js",
   "scripts": {
     "gparse": "nearleyc piplup.ne -o piplup.js"
   },
